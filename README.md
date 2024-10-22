@@ -1,2 +1,8 @@
 # node-copilot
-Node.js repository
+
+## Description
+A brief description of the project.
+
+## Installation
+```sh
+npm install
